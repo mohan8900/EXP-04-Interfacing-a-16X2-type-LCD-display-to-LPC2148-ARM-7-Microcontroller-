@@ -1,10 +1,9 @@
 # EXP-04-Interfacing a 16X2 type LCD display to LPC2148 ARM 7Microcontroller
 
-Name :KRISHNA PRAKAASH D M
+Name :A K MOHAN RAJ
 
-Roll no :212221230052
+Roll no :212221230064
 
-Date of experiment :14/10/2022
 
  
 
